@@ -1,6 +1,8 @@
 # Fashion-E-Commerce-App
 The Beauty Product App offers users a seamless shopping experience for beauty and skincare products, providing features like personalized recommendations, price alerts, and loyalty rewards to enhance their shopping journey.
 
+
+
 Features
 
 Product Browsing:
@@ -50,10 +52,14 @@ Profile: Edit personal information, manage addresses, and view order history.
 
 Login: Sign in or create an account with Google, Apple, or email.
 
+
+
 How to View the Design
 
 Download the design files from the repository.
 Open them in Figma or view the exported images.
+
+
 
 Author
 
