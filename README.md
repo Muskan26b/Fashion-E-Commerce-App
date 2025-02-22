@@ -1,6 +1,5 @@
 ## 🎨 UI Design & Prototype
-View my full UI design and prototype in Figma:
-[Click Here]([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/ULEsrRw62PIHpCCQ3nWCPD/Fashion-E-Commerce-Website?node-id=0-1&t=cr7eqrMON8mHLMaP-1))
+View my full UI design and prototype in Figma:[Click Here]([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/ULEsrRw62PIHpCCQ3nWCPD/Fashion-E-Commerce-Website?node-id=0-1&t=cr7eqrMON8mHLMaP-1))
 
 
 # Fashion-E-Commerce-App
